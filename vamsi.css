@@ -1,0 +1,18 @@
+/* syntax   
+id => #
+class => .
+
+selector {
+    key:value;
+    key:value;
+    key:value;
+}
+
+*/
+
+.head1 {
+  border: 2px solid blueviolet;
+  background-color: rgb(205, 236, 236);
+  text-align: center;
+  color: rgb(42, 165, 48);
+}
